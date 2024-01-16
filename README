@@ -1,0 +1,22 @@
+Solve Wordle puzzles
+
+$ wordle.py --help
+Usage: wordle.py [OPTIONS]
+
+Options:
+  -l1 TEXT     First letter
+  -l2 TEXT     Second letter
+  -l3 TEXT     Third letter
+  -l4 TEXT     Fourth letter
+  -l5 TEXT     Fifth letter
+  -p TEXT      Pattern
+  -nl1 TEXT    Letters that are not the first letter
+  -nl2 TEXT    Letters that are not the second letter
+  -nl3 TEXT    Letters that are not the third letter
+  -nl4 TEXT    Letters that are not the fourth letter
+  -nl5 TEXT    Letters that are not the fifth letter
+  -i TEXT      Include words with letters
+  -e, -x TEXT  Exclude words with letters
+  --help       Show this message and exit.
+
+
